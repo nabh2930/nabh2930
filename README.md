@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nabh2930
-- 👀 I’m interested in cryptos, blockchain and technology enthusiast
-- 🌱 I’m currently learning python, linux and visual studio
+- 👀 I’m interested in realtime communication protocols like Webrtc, SIP. Other interest areas cryptocurrency, blockchain.
+- 🌱 I’m currently learning web development (html5, JS), python, linux.
 - 💞️ I’m looking to collaborate on decentralized finance
 - 📫 How to reach me ... dnn8404@outlook.com
 
